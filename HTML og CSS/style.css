@@ -1,0 +1,43 @@
+body
+{
+    background-color: black;
+}
+img
+{
+   width: 95%;
+   padding-left: 50px;
+}
+.topnav #navbilde img
+{
+    width: 150px;
+    height: 150px;
+    margin-right: 50px;
+    padding-left: 250px;
+    padding-bottom: 50px;
+}
+#navbilde
+{
+    display: inline-block;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+}
+.textfelt{background-color: white;}
+.bunntextfelt
+{
+    background-color: darkgrey;
+}
+nav ul
+{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 32px;
+    text-decoration: none;
+}
+nav ul li a {
+color: grey;
+}
